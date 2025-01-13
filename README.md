@@ -1,1 +1,1 @@
-placeholder text
+DragonChat is designed to be a comprehensive communications app solution. There is the server, and User Interface, which communicate so users can communicate and share files.
